@@ -72,6 +72,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Home
 ![Home](https://user-images.githubusercontent.com/110155870/195821919-9534d232-ed98-4a8b-b778-f6d5414708ae.png)
 
+Home-Underweight
+![U](https://user-images.githubusercontent.com/110155870/195822968-8031884f-d764-4bbf-93f0-bc742faf042e.png)
+
+Home-Normal
+![P](https://user-images.githubusercontent.com/110155870/195823155-957a7c47-e9aa-4be4-bb91-0031fed75215.png)
+
+Home-Overweight
+![O](https://user-images.githubusercontent.com/110155870/195823361-62218dec-8d15-4c49-99c9-0344155d3b67.png)
+
 Contact
 ![Contact](https://user-images.githubusercontent.com/110155870/195822129-da1dae8e-bef5-4e6f-b398-d737e87c12f3.png)
 
